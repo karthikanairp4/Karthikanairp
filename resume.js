@@ -270,7 +270,7 @@ const resumeData = {
         "Plaid API",
       ],
       github: "https://github.com/karthikanairp4/wpg-wallet-knp",
-      live: "#",
+      live: "https://wpg-wallet-app.onrender.com/",
     },
   ],
 };
